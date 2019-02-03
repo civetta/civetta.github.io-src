@@ -1,5 +1,5 @@
 Template: generic_page 
-Title: Resume 
+Title: resume 
 Slug: resume
 Summary: Resume
 
