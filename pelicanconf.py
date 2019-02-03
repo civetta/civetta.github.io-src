@@ -5,12 +5,14 @@ from __future__ import unicode_literals
 AUTHOR = 'Kelly Richardson'
 SITENAME = "Kelly's Notebook"
 SITEURL = ''
-
+TAGS_URL = 'tags.html'
+ARCHIVES_URL = 'archives.html'
 PATH = 'content'
 
 TIMEZONE = 'EST'
 
 DEFAULT_LANG = 'en'
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
