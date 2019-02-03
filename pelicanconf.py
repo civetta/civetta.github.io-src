@@ -23,10 +23,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Home', '/index.html'),
+         ('About Me', '/pages/about.html'),
+         ('Resume', '/pages/resume.html'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
