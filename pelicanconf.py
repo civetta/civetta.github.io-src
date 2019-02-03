@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Kelly Richardson'
 SITENAME = "Kelly's Notebook"
-SITEURL = ''
+SITEURL = 'kellysnotebook.com'
+USER_LOGO_URL = "https://avatars1.githubusercontent.com/u/4553650?s=400&u=ed4a46a23eac9c188c95e48a93e97321a500a54a&v=4"
 TAGS_URL = 'tags.html'
 ARCHIVES_URL = 'archives.html'
 PATH = 'content'
