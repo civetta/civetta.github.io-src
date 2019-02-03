@@ -1,6 +1,6 @@
 Template: generic_page 
 Title: Resume 
-Slug: Resume
+Slug: resume
 Summary: Resume
 
-#This is my resume page
+#This is my about me page
