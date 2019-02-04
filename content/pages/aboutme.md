@@ -3,4 +3,4 @@ Title: About
 Slug: About 
 Summary: About
 
-#This is my about me page
+I was born and raised in Maryland where I lived in a big white house with my parents and three siblings. Growing up I was always glued to a computer screen.It was there, I taught myself HTML and CSS, played lots of video games, and read lots of Harry Potter fanfiction. After graduating college in 2013 with a teaching degree, I spent that summer applying to teaching jobs for part of my day and teaching myself python for the rest. It was during that summer my love for Python was born. In the fall of 2013, I got a job teaching in a traditional classroom. A year later I moved to Pittsburgh and got a remote teaching job which I still have. During that time I became certified to teach Citizenship, Social Studies, Math, and Upper Elementary. About a year into my online teaching job I created a small application that made lives of my fellow online teachers, easier. Since then my roles at the company have changed and I now program for the company part of my day and then teach during our busiest hours. 
